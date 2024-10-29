@@ -10,3 +10,5 @@ This repository is a simple python tutorial using the notebook 'Workshop 1 Tutor
 Follow the instructions in Workshop 1 Tutorial
 
 Solutions can be found in Workshop 1 Solutions
+
+Enjoy!
